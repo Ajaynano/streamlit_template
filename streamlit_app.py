@@ -266,3 +266,6 @@ elif select == 'Layouts & Containers' :
     st.subheader('And that\'s a wrap!🎉 Hope you learnt a lot from this tour and had fun as well! 😊')
 else:
     st.write('') # left blank if nothing is selected!
+
+
+ if __name__ == '__main__':     st.set_option('server.enableCORS', True)
