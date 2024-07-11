@@ -268,4 +268,3 @@ else:
     st.write('') # left blank if nothing is selected!
 
 
- if __name__ == '__main__':     st.set_option('server.enableCORS', True)
